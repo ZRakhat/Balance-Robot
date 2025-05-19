@@ -1,4 +1,4 @@
-# 🧠 Two-Wheeled Self-Balancing Robot
+# Two-Wheeled Self-Balancing Robot
 
 This Arduino-based project implements a **two-wheeled self-balancing robot** using a PID controller, an IMU for orientation, and a TLE94112 motor driver. The robot constantly adjusts its motor speeds to maintain an upright position based on sensor feedback.
 
@@ -86,19 +86,12 @@ Start with tuning `Kp` (responsiveness), then add `Kd` (stability), and finally 
 
 ---
 
-## 📷 Demo
+## 📄 Getting in touch
 
-*A short video or GIF of the robot balancing would go here*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+For any discussions and issues please reach me by email
 
 ---
 
 ## 👤 Author
 
-Created by [Your Name]  
-Feel free to fork, modify, and contribute!
+Created by [ZRahat] with the help of Infineon Company
