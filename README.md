@@ -94,4 +94,4 @@ For any discussions and issues please reach me by email
 
 ## 👤 Author
 
-Created by [ZRakhat](https://www.github.com/ZRakhat) with the help of Infineon Company
+Created by [ZRakhat](https://www.github.com/ZRakhat) with the help of [Infineon](https://github.com/Infineon) Company
